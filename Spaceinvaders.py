@@ -1,6 +1,6 @@
-#Space Invaders - Part 1
-#Set un the screen
+#Space Invaders
 #Pycharm 3.0 on Windows
+# My first programming code
 import turtle
 import winsound
 import math
