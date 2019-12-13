@@ -1,6 +1,7 @@
 #Space Invaders
-#Pycharm 3.0 on Windows
+#Pycharm 3.0 on Linux
 # My first programming code
+# some little changes in the way to play sounds
 import turtle
 import os
 import math
